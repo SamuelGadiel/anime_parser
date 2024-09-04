@@ -1,0 +1,22 @@
+name: anime_parser
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dependencies:
+  collection: ^1.17.1
+  dartz: ^0.10.1
+  dio: ^5.0.3
+  html: ^0.15.2
+  intl: ^0.18.0
+  notion_api: ^1.2.0
+
+dev_dependencies:
+  lints: ^2.0.1
+  test: ^1.21.0
